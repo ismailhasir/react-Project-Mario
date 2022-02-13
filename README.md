@@ -1,2 +1,8 @@
 # react-project-mario
-A project for exercising essential React subjects.
+This project covered these main React subjects:
+
+- State & useState
+- Components & Props
+- Styling React Application
+- User Input & Events
+- Fetching Data & useEffect
