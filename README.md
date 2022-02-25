@@ -1,4 +1,4 @@
-# react-project-mario
+# react-Project-Mario
 This project covered these main React subjects:
 
 - State & useState
